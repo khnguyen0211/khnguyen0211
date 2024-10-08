@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Java Spring, Docker, English**
 
-- 👯 I’m looking to collaborate on **Pawoo VietNam**
-
-- 💬 Ask me about **Algorithm, Backend, Database**
-
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/khnguyen0211/)
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1m94VN-xLBR4tXo5azr8lDQvli6LUyJU1/view?usp=sharing)
