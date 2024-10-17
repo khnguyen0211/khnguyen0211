@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khnguyen0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khnguyen0211" height="30" width="40" /></a>
-<a href="https://fb.com/kh.nguyen.0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh.nguyen.0211" height="30" width="40" /></a>
+<a href="https://fb.com/khnguyen0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kh.nguyen.0211" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pnknguyen0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pnknguyen0211" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khnguyen0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khnguyen0211" height="30" width="40" /></a>
 </p>
